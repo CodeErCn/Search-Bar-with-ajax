@@ -1,0 +1,1 @@
+This is a demonstration of search bar with ajax by using PHP/codeIgniter and Jquery with MySql database.
